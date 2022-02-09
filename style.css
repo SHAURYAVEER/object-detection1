@@ -1,0 +1,36 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body{
+    background: #B84242;
+background: -moz-linear-gradient(45deg, #B84242 0%, #9400FF 100%, #FFFFFF 100%);
+background: -webkit-linear-gradient(45deg, #B84242 0%, #9400FF 100%, #FFFFFF 100%);
+background: linear-gradient(45deg, #B84242 0%, #9400FF 100%, #FFFFFF 100%);
+}
+#demo {
+  min-height: 150px;
+  text-align: center;
+    background: #B84242;
+background: -moz-linear-gradient(45deg, #B84242 0%, #9400FF 100%, #FFFFFF 100%);
+background: -webkit-linear-gradient(45deg, #B84242 0%, #9400FF 100%, #FFFFFF 100%);
+background: linear-gradient(45deg, #B84242 0%, #9400FF 100%, #FFFFFF 100%);
+}
+#demo {
+  min-height: 150px;
+  text-align: center;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px rgb(81, 255, 0) ;
+    border-radius: 10px;
+}
